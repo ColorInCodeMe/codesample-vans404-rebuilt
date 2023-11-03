@@ -9,7 +9,7 @@
 - Works responsively and cross-browser
 - uses jquery for interactive elements
 # Unique challenges
-- Making the video responsive and swap, while still being relatively performant for a 404 page. This had to be wrapped to work with multiple code spaces on the global page, and output for Adobe AEM CMS which presents unique challenges in itself- since most projects cannot be uploaded as-is and need unique modifications depending on the location of the microsite. This page had to be globally accessible while still giving the user something fun to look at, which required some integration with the Java environment and AEM. 
+- Making the video responsive and swap, while still being relatively performant for a 404 page. This had to be wrapped to work with multiple code spaces on the global page, and output for Adobe AEM CMS which presents unique challenges in itself- since most projects cannot be uploaded as-is and need unique modifications depending on the location of the microsite. This page had to be globally accessible while still giving the user something fun to look at, which required some integration with the Java environment and AEM. Some of the wrappers have been removed so this source code can be published. 
 
 
 # this repo is cloneable, so you can reproduce it on a local env. Copied instructions from my boilerplate are below:

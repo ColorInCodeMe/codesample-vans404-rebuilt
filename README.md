@@ -2,7 +2,7 @@
 # This a code sample project
 - Some elements of the page and project have been removed to protect client/project information. This is a code sample reference only and not for reproduction or production. 
 # About This project
-- Main landing page for Susa Ventures, built and initially compiled on react, re-edited and revised for update.
+- 404 global page for vans
 # About the code
 - Uses a build.js and json script to reflect frontend. 
 - includes jquery and sizzle.js 
